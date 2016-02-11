@@ -1,0 +1,29 @@
+{
+  "name": "node-webserver",
+  "version": "1.0.0",
+  "description": "class excercise",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mongodb": "^2.1.7",
+    "multer": "^1.1.0",
+    "node-cal": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marybethsnodgrass/node-webserver.git"
+  },
+  "author": "Marybeth Snodgrass (https://marybethsnodgrass.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marybethsnodgrass/node-webserver/issues"
+  },
+  "homepage": "https://github.com/marybethsnodgrass/node-webserver#readme"
+}
